@@ -33,5 +33,5 @@ This project is an end-to-end Machine Learning application designed to identify 
 4. **Analyze:** Click **"RUN SMART DIAGNOSTIC"** to generate the AI churn prediction and retention strategy.
 
 ---
-**Author:** [Your Name]  
-**License:** MIT License
+**Author:** [Rohit Bapu Mohite]  
+
